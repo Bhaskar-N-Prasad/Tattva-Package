@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+Tattva/__init__.py
+Tattva/basic.py
+Tattva/shell.py
+Tattva/strings_with_arrows.py
+tattva.egg-info/PKG-INFO
+tattva.egg-info/SOURCES.txt
+tattva.egg-info/dependency_links.txt
+tattva.egg-info/top_level.txt
