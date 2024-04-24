@@ -1,0 +1,6 @@
+akshara i = 3
+aadare i == 2 THEN
+    bari(i)
+illadiddare i == 4 THEN
+    bari("Bhaskar")
+illa bari("no")

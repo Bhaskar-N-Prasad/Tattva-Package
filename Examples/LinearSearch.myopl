@@ -1,0 +1,17 @@
+kaarya huduku(a,key,len)
+    aguva_varigu i = 0 inda len THEN
+        
+        akshara x = a/i
+        aadare x == key THEN 
+            maralisu i
+        mugisu   
+    mugisu
+    maralisu -1
+mugisu
+
+akshara a = [1,2,3,4,5,6]
+akshara x = 2
+akshara len = udda(a)
+akshara uttara = huduku(a,x,len)
+
+bari(uttara)

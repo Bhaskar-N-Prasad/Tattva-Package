@@ -1,0 +1,16 @@
+bari("Bhaskar")
+
+
+kaarya kudisu(x, y)
+    akshara r = ""
+    akshara len = udda(x)
+
+    aguva_varigu i= 0 inda len THEN
+        akshara r = r + x/i
+        aadare i != len -1 THEN akshara r = r + y
+    mugisu
+
+    maralisu r
+mugisu
+
+bari(kudisu(["1","2","3"],"-"))

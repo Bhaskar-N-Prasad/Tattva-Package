@@ -1,0 +1,12 @@
+aguva_varigu i = 0 inda 10 THEN
+    bari(i)
+mugisu
+
+akshara patti = [1,2,3,4,5]
+akshara len = udda(patti)
+aguva_varigu i = 0 inda len THEN
+    bari(patti/i)
+mugisu
+
+akshara a = []
+aguva_varigu i = 0 inda 10 THEN; aadare i == 4 THEN mundu_varisu illadiddare i == 8 THEN murisu; akshara a = a + i;mugisu

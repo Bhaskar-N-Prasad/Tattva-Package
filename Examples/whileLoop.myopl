@@ -1,0 +1,8 @@
+akshara x = [1,2,3,4]
+akshara i = 0
+akshara len = udda(x)
+satya_iruva_varigu  i < len THEN
+    akshara i = i+ 1
+    bari(i) 
+    
+mugisu

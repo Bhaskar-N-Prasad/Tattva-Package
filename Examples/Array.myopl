@@ -1,0 +1,22 @@
+# List 
+
+akshara x = [1,2,3,4]
+
+# TO POP ELEMENTS IN LIST
+alisu(x,3)
+bari(x)
+
+# TO ADD ELEMENTS IN LIST
+serisu(x,5)
+bari(x)
+
+# TO JOIN TWO LISTS
+x * [6,7,8,9]
+bari(x)
+
+# TO REMOVE ELEMENTS IN LIST
+x - 0
+bari(x)
+
+akshara mid = 2
+bari(x/mid)
