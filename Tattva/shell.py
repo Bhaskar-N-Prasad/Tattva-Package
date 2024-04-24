@@ -1,4 +1,4 @@
-import Tattva.basic as basic
+import basic
 
 while True:
 	text = input('tattva > ')
